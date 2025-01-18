@@ -1,1 +1,1 @@
-The application is located at this location: C:\Users\(your username)\SpeedrunFast\SpeedrunFast\bin\Debug
+The application is located at this location: C:\Users\(your username)\SpeedrunFast\bin\Debug
