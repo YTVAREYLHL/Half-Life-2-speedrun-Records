@@ -1,0 +1,1 @@
+The application is located at this location: C:\Users\(your username)\SpeedrunFast\SpeedrunFast\bin\Debug
